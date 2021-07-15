@@ -1,0 +1,17 @@
+FRC 2019 Taxonomy
+Version: 1.1.0
+Formal Version Date: 2019-01-01
+Release Date: 2018-09-21
+
+Change History:
+
+v1.1.0 (2018-09-21):
+* Changes from consultation.
+
+v1.0.0 (2018-06-26):
+* Initial taxonomy with entry points:
+** Core: "https://xbrl.frc.org.uk/fr/2019-01-01/core/frc-core-full-2019-01-01.xsd";
+** FRS-101: "https://xbrl.frc.org.uk/FRS-101/2019-01-01/FRS-101-2019-01-01.xsd";
+** FRS-102: "https://xbrl.frc.org.uk/FRS-102/2019-01-01/FRS-102-2019-01-01.xsd";
+** IFRS: "https://xbrl.frc.org.uk/IFRS/2019-01-01/IFRS-2019-01-01.xsd".
+

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<taxonomyPackage xmlns="http://xbrl.org/2016/taxonomy-package" xml:lang="en">
+  <identifier>https://xbrl.frc.org.uk/fr/2019-01-01/v1-1-0</identifier>
+  <name>FRC 2019 Taxonomy</name>
+  <version>1.1.0</version>
+  <entryPoints>
+    <entryPoint>
+      <name>FRS-101</name>
+      <entryPointDocument href="https://xbrl.frc.org.uk/FRS-101/2019-01-01/FRS-101-2019-01-01.xsd"/>
+    </entryPoint>
+    <entryPoint>
+      <name>FRS-102</name>
+      <entryPointDocument href="https://xbrl.frc.org.uk/FRS-102/2019-01-01/FRS-102-2019-01-01.xsd"/>
+    </entryPoint>
+    <entryPoint>
+      <name>IFRS</name>
+      <entryPointDocument href="https://xbrl.frc.org.uk/IFRS/2019-01-01/IFRS-2019-01-01.xsd"/>
+    </entryPoint>
+    <entryPoint>
+      <name>Core</name>
+      <entryPointDocument href="https://xbrl.frc.org.uk/fr/2019-01-01/core/frc-core-full-2019-01-01.xsd"/>
+    </entryPoint>
+  </entryPoints>
+</taxonomyPackage>

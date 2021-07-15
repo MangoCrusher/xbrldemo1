@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <rewriteURI rewritePrefix="../FRS-101/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/FRS-101/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../FRS-102/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/FRS-102/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../IFRS/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/IFRS/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../fr/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/fr/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../cd/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/cd/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../general/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/general/2019-01-01/"/>
+  <rewriteURI rewritePrefix="../reports/2019-01-01/" uriStartString="https://xbrl.frc.org.uk/reports/2019-01-01/"/>
+</catalog>
